@@ -8,7 +8,7 @@
 
 > AI governance must translate into controls that hold when systems act. I work on the architecture that connects policy, identity, and human authority to decisions made at runtime.
 
-I’m Director of AI Governance, Automation & Analytics at AlphaSense. My work focuses on translating governance requirements into operational controls, with particular emphasis on AI security and runtime enforcement.
+I’m Director of AI Security, Governance, Automation & Analytics. My work focuses on translating governance requirements into operational controls, with particular emphasis on AI security and runtime enforcement.
 
 ## What I work on
 
