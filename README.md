@@ -10,7 +10,7 @@
 >
 > The gap between policy documentation and production enforcement is where governance actually fails. That is the problem I work on.
 
-I lead AI Security at a $7B enterprise, where I own AI governance from policy through runtime enforcement. Everything here is built from production experience, not theory.
+I lead AI Security at a $B enterprises, where I own AI governance from policy through runtime enforcement. Everything here is built from production experience, not theory.
 
 ## What I work on
 
