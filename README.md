@@ -31,6 +31,8 @@ The standard is organized around six pillars:
 
 **Start here:** [Explore the ACR reference implementation](https://github.com/AdamDiStefanoAI/acr-standard) to understand the control-plane architecture and its implementation.
 
+**The specification:** [Read the ACR Standard](https://runtimecontrol.io/standard).
+
 ## Featured repositories
 
 | Repository | What it does |
