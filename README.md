@@ -29,19 +29,18 @@ The standard is organized around six pillars:
 5. Self-healing and containment
 6. Human authority
 
-**Start here:** [Explore the ACR reference implementation](https://github.com/AdamDiStefanoAI/acr-framework) to understand the control-plane architecture and its implementation.
+**Start here:** [Explore the ACR reference implementation](https://github.com/AdamDiStefanoAI/acr-standard) to understand the control-plane architecture and its implementation.
 
 ## Featured repositories
 
 | Repository | What it does |
 |---|---|
-| [**acr-framework**](https://github.com/AdamDiStefanoAI/acr-framework) | Open-source reference implementation of the ACR control-plane architecture for agentic AI. |
+| [**acr-standard**](https://github.com/AdamDiStefanoAI/acr-standard) | Open-source reference implementation of the ACR control-plane architecture for agentic AI. |
 | [**AI-Key-Scanner**](https://github.com/AdamDiStefanoAI/AI-Key-Scanner) | A GitHub Action designed to detect exposed OpenAI, Anthropic, and Google AI API keys in pull requests. |
 
 ## Beyond code
 
 - **Books** — three published books on cybersecurity and AI governance, including *The ABCs of Agentic AI*
-- **Podcast** — *The Control Plane*, a show exploring AI governance, security, and control in production
 - **Toolkit** — the free [ACR Governance Toolkit](https://runtimecontrol.io): maturity assessment, agent risk classification, and incident response testing
 
 ## Credentials
