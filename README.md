@@ -39,6 +39,7 @@ The standard is organized around six pillars:
 |---|---|
 | [**acr-standard**](https://github.com/AdamDiStefanoAI/acr-standard) | Open-source reference implementation of the ACR control-plane architecture for agentic AI. |
 | [**AI-Key-Scanner**](https://github.com/AdamDiStefanoAI/AI-Key-Scanner) | A GitHub Action designed to detect exposed OpenAI, Anthropic, and Google AI API keys in pull requests. |
+| [**MCP-Scanner**](https://github.com/AdamDiStefanoAI/MCP-Scanner) | Security scanner for MCP (Model Context Protocol) servers and client configs: 10 rules flagging shell exec, exfil paths, unscoped filesystem access, secret access, missing auth, and typosquatted packages. (`pip install runtime-mcp-scanner`) |
 
 ## Beyond code
 
